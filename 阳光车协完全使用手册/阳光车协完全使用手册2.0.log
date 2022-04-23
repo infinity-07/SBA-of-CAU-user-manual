@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.7.16)  9 MAR 2022 11:44
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.7.16)  23 APR 2022 00:13
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/sweetie/Downloads/阳光车协完全使用手册/阳光车协完全使用手册/阳光车协完全使用手册2.0
-(c:/Users/sweetie/Downloads/阳光车协完全使用手册/阳光车协完全使用手册/阳光车协完全使用手册2.0.tex
+**d:/Github/SBA-of-CAU-user-manual/阳光车协完全使用手册/阳光车协完全使用手册2.0
+(d:/Github/SBA-of-CAU-user-manual/阳光车协完全使用手册/阳光车协完全使用手册2.0.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (e:/SoftWare/texlive/2021/texmf-dist/tex/latex/ctex/ctexbook.cls (e:/SoftWare/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2021/03/14 v2.5.6 Backend configuration file (CTEX)
@@ -917,11 +917,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7.52812> on input line 198.
  [2
 
-] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12
-
-]
+] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
 第二章
-[13] [14]
+[13
+
+] [14]
 File: fig/过弯.jpg Graphic file (type bmp)
 <fig/过弯.jpg>
  [15] [16]
@@ -1037,7 +1037,7 @@ Underfull \vbox (badness 1383) has occurred while \output is active []
 File: fig/波尔兄弟_货架.jpg Graphic file (type bmp)
 <fig/波尔兄弟_货架.jpg>
 
-Overfull \hbox (210.11424pt too wide) in paragraph at lines 2209--2210
+Overfull \hbox (210.11424pt too wide) in paragraph at lines 2216--2217
  [] 
  []
 
@@ -1067,14 +1067,51 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [90]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
- [91] [92
+Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ④ (U+2463) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑤ (U+2464) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑥ (U+2465) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑦ (U+2466) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ④ (U+2463) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑤ (U+2464) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑥ (U+2465) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ★ (U+2605) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ④ (U+2463) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑤ (U+2464) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ⑥ (U+2465) in font [lmroman10-regular]:mapping=tex-text;!
+ [91]
+Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
+ [92]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [93]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94] [95] [96
 
 ]
 第十一章
-[93]
+[97]
 File: fig/发票报销.png Graphic file (type bmp)
 <fig/发票报销.png>
- [94] [95] [96
+ [98] [99] [100
 
 ]
 第十二章
@@ -1087,7 +1124,7 @@ File: fig/行者3.png Graphic file (type bmp)
 
 Underfull \vbox (badness 1072) has occurred while \output is active []
 
- [97]
+ [101]
 File: fig/行者4.png Graphic file (type bmp)
 <fig/行者4.png>
 File: fig/行者5.png Graphic file (type bmp)
@@ -1097,24 +1134,24 @@ File: fig/行者6.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [98]
+ [102]
 File: fig/行者7.png Graphic file (type bmp)
 <fig/行者7.png>
 File: fig/行者8.png Graphic file (type bmp)
 <fig/行者8.png>
 File: fig/行者9.png Graphic file (type bmp)
 <fig/行者9.png>
- [99]
+ [103]
 File: fig/行者10.png Graphic file (type bmp)
 <fig/行者10.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.52061> on input line 2629.
+(Font)              <5.52061> on input line 2782.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [100] [101] [102
+ [104] [105] [106
 
-] [103]
+] [107]
 
 Package fontspec Warning: Font "FandolHei-Regular" does not contain requested
 (fontspec)                Script "CJK".
@@ -1137,13 +1174,13 @@ Package fontspec Info: Font family 'FandolHei-Regular(0)' created for font
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [104]
+ [108]
 File: fig/蹭风队形.jpg Graphic file (type bmp)
 <fig/蹭风队形.jpg>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [105] [106]
+ [109] [110]
 File: fig/驮包和大旗.jpg Graphic file (type bmp)
 <fig/驮包和大旗.jpg>
 File: fig/菁宏驮包.jpg Graphic file (type bmp)
@@ -1155,46 +1192,49 @@ File: fig/林琛宇驮包.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [107]
+ [111]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [108]
+ [112]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [109] [110] (./阳光车协完全使用手册2.0.tdo)
+ [113] [114] (./阳光车协完全使用手册2.0.tdo)
 \tf@tdo=\write8
 \openout8 = `阳光车协完全使用手册2.0.tdo'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [111
+ [115
 
 ]
 File: fig/头盔清洁1.jpeg Graphic file (type bmp)
 <fig/头盔清洁1.jpeg>
 File: fig/头盔清洁2.jpeg Graphic file (type bmp)
 <fig/头盔清洁2.jpeg>
- [112]
+ [116]
 File: fig/头盔清洁3.jpeg Graphic file (type bmp)
 <fig/头盔清洁3.jpeg>
 File: fig/头盔清洁4.jpeg Graphic file (type bmp)
 <fig/头盔清洁4.jpeg>
- [113] [114]
+ [117] [118]
 第十三章
-[115
+[119
 
 ] (./阳光车协完全使用手册2.0.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `阳光车协完全使用手册2.0.out' has not changed.
-(rerunfilecheck)             Checksum: 49A184997C68956273109C1FB5FB10D8;17166.
+(rerunfilecheck)             Checksum: DAABF7B24518A30A2D4ED37F6D64B12A;18137.
  ) 
 Here is how much of TeX's memory you used:
- 30589 strings out of 476919
- 688230 string characters out of 5821392
- 1011005 words of memory out of 5000000
- 49946 multiletter control sequences out of 15000+600000
+ 30663 strings out of 476919
+ 694158 string characters out of 5821392
+ 1049917 words of memory out of 5000000
+ 50020 multiletter control sequences out of 15000+600000
  433121 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 112i,13n,116p,1259b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 112i,13n,116p,1254b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 阳光车协完全使用手册2.0.pdf (130 pages).
+Output written on 阳光车协完全使用手册2.0.pdf (134 pages).
