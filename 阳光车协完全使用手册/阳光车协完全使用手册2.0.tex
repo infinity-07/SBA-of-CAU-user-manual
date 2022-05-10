@@ -351,8 +351,7 @@
 负责人定向开始前，收走除小队长以外所有人的手机，一队一张地图，各队按完成时间排名次，名次靠前有奖励。
 \subsection{校内长跑}
 其实就是一个加长版的晚训，比平常晚训多跑几圈，大概跑个20圈的样子，可以跑的慢一点。在热身环节可以带大家做一些小游戏，在跑完步之后，可以搞点桌游让大家玩一玩，也挺有意思的。
-
-
+\subsection{讲座}
 % \section{特殊活动}
 % \subsection{露营}
 % \subsection{夜爬百望山}
@@ -412,8 +411,21 @@
 
 \section{学校主题活动}
 \subsection{秋季百团大战}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=0.7\linewidth]{fig/百团大战}
+    \caption{摄于2021年9月25日}
+    \label{fig:}
+\end{figure}
 
 \subsection{金色的希望}
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=0.7\linewidth]{fig/金色的希望}
+    \caption{摄于2020年12月2日}
+    \label{fig:}
+\end{figure}
+
 此活动是车协稳定的物资来源。一般来讲，我们的特色活动为：义务修车。此活动可以报销一批活动经费，一般会购买以下物资：
 
 自行车保养用品：链条清洗剂，除锈剂等。
@@ -509,7 +521,36 @@
 
 我们算出生理上的数据，也算出风的阻力，空气的阻力，鞋子的能力，这些都算得出来，但还有一块空白，无法解答的地方，该如何量化心理素质，要如何量化一个人超越极限的决心，做到科学上认为不可能的事情。
 
-\href{https://www.bilibili.com/video/BV1pb411K74L}{挑战马拉松破2纪录片-breking2,}
+\href{https://www.bilibili.com/video/BV1pb411K74L}{挑战马拉松破2纪录片-breking2}
+\subsection{体测排名计算方法}
+如果只有一个项目（比如只有爬坡），显然我们可以按照用时多少直接进行排名。但如果有两个项目，那么我们必须要有一个算法来结合排名。
+
+首先，要将单项用时转化成单项得分，然后再把单项得分乘上权重，得到最终得分。
+
+参考计算方式如下：
+
+符号说明:
+
+\begin{itemize}
+    \item 综合成绩 (百分制):  $S$ 
+    \item 此人跑步成绩 (单位: 秒):  $S_{1}$ 
+    \item 此人骑车成绩 (单位: 秒):  $S_{2}$ 
+    \item 在同性中, 最长跑步用时:  $\max _{S_{1}}$ 
+    \item 在同性中, 最短跑步用时:  $\min _{S_{1}}$ 
+    \item 在同性中, 最长骑车用时:  $\max _{S_{2}}$ 
+    \item 在同性中, 最短骑车用时:  $\min _{S_{2}}$ 
+    \item 跑步得分权重：$\alpha$
+    \item 骑车得分权重：$\beta$
+\end{itemize}
+
+\[S=\left(\alpha \times \frac{\max _{S_{1}}-S_{1}}{\max _{S_{1}}-\min _{S_{1}}}+\beta\times \frac{\max _{S_{2}}-S_{2}}{\max _{S_{2}}-\min _{S_{2}}}\right) \times 40+60\]
+
+例: 小A（男）的跑步用时为  $1609 \mathrm{~s}$ , 骑车用时为  4$187 \mathrm{~s}$ ; 男生最长跑步用时 为  $1772 \mathrm{~s}$ , 最短跑步用时为  $1531 \mathrm{~s}$ ; 男生最长骑车用时为  $5438 \mathrm{~s}$ , 最短骑车用 时为  $4170 \mathrm{~s}$ .权重均为 $0.5$ 所以小A的综合得分为
+
+\[S=\left(0.5 \times \frac{1772-1609}{1772-1531}+0.5 \times \frac{5438-4187}{5438-4170}\right) \times 40+60=93.26\]
+
+注：在此方法中，最终得到的得分会落到 $[60,100]$ 中
+
 \section{其他活动}
 \subsection{刷楼}
 一般在百团前一到两周。
