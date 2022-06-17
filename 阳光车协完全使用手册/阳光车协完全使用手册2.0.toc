@@ -125,25 +125,29 @@
 \contentsline {subsubsection}{联系方式}{48}{subsubsection*.27}%
 \contentsline {subsubsection}{日程安排}{48}{subsubsection*.28}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}暑期远征}{51}{chapter.5}%
-\contentsline {section}{\numberline {5.1}暑期宣讲会}{51}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}队员选拔方案}{51}{subsection.5.1.1}%
-\contentsline {section}{\numberline {5.2}预报名}{52}{section.5.2}%
-\contentsline {section}{\numberline {5.3}暑期自述}{52}{section.5.3}%
-\contentsline {section}{\numberline {5.4}暑期积分}{53}{section.5.4}%
-\contentsline {section}{\numberline {5.5}体测}{54}{section.5.5}%
-\contentsline {section}{\numberline {5.6}团队评议}{56}{section.5.6}%
-\contentsline {subsection}{\numberline {5.6.1}积分及体测奖励}{56}{subsection.5.6.1}%
-\contentsline {section}{\numberline {5.7}成队}{56}{section.5.7}%
-\contentsline {section}{\numberline {5.8}队内事宜}{57}{section.5.8}%
-\contentsline {section}{\numberline {5.9}运车}{58}{section.5.9}%
-\contentsline {subsection}{\numberline {5.9.1}中铁快运}{58}{subsection.5.9.1}%
-\contentsline {subsection}{\numberline {5.9.2}快递}{59}{subsection.5.9.2}%
-\contentsline {subsection}{\numberline {5.9.3}物流}{60}{subsection.5.9.3}%
-\contentsline {subsection}{\numberline {5.9.4}注意事项}{60}{subsection.5.9.4}%
-\contentsline {subsection}{\numberline {5.9.5}拆装技巧}{61}{subsection.5.9.5}%
-\contentsline {section}{\numberline {5.10}车票}{62}{section.5.10}%
-\contentsline {section}{\numberline {5.11}高原骑行注意事项}{63}{section.5.11}%
-\contentsline {section}{\numberline {5.12}一些经验}{64}{section.5.12}%
+\contentsline {section}{\numberline {5.1}暑期选拔}{51}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}暑期宣讲会}{51}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}队员选拔方案}{51}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}预报名}{52}{subsection.5.1.3}%
+\contentsline {subsection}{\numberline {5.1.4}暑期自述}{52}{subsection.5.1.4}%
+\contentsline {subsection}{\numberline {5.1.5}暑期积分}{53}{subsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.1.6}体测}{54}{subsection.5.1.6}%
+\contentsline {subsection}{\numberline {5.1.7}团队评议}{56}{subsection.5.1.7}%
+\contentsline {subsection}{\numberline {5.1.8}积分及体测奖励}{56}{subsection.5.1.8}%
+\contentsline {section}{\numberline {5.2}成队事宜}{56}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}运车}{58}{subsection.5.2.1}%
+\contentsline {subsubsection}{中铁快运}{58}{subsubsection*.34}%
+\contentsline {subsubsection}{快递}{59}{subsubsection*.35}%
+\contentsline {subsubsection}{物流}{60}{subsubsection*.36}%
+\contentsline {subsubsection}{注意事项}{60}{subsubsection*.37}%
+\contentsline {subsubsection}{拆装技巧}{61}{subsubsection*.38}%
+\contentsline {section}{\numberline {5.3}暑期远征}{62}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}车票}{62}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}高原骑行注意事项}{63}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}一些经验}{64}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}暑期后}{65}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}视频剪辑}{65}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}暑期报告会}{65}{subsection.5.4.2}%
 \contentsline {chapter}{\numberline {第六章\hspace {.3em}}常见小游戏}{67}{chapter.6}%
 \contentsline {section}{\numberline {6.1}室内小游戏}{67}{section.6.1}%
 \contentsline {section}{\numberline {6.2}室外游戏}{67}{section.6.2}%
@@ -204,13 +208,9 @@
 \contentsline {section}{\numberline {12.3}团队骑行安全协议}{108}{section.12.3}%
 \contentsline {section}{\numberline {12.4}学习渠道}{111}{section.12.4}%
 \contentsline {section}{\numberline {12.5}常见问题}{112}{section.12.5}%
-\contentsline {section}{\numberline {12.6}值得被记住的话}{116}{section.12.6}%
-\contentsline {section}{\numberline {12.7}注释}{116}{section.12.7}%
+\contentsline {section}{\numberline {12.6}值得被记住的话}{115}{section.12.6}%
+\contentsline {section}{\numberline {12.7}注释}{115}{section.12.7}%
 \contentsline {section}{\numberline {12.8}短信/通知模板}{118}{section.12.8}%
-\contentsline {subsection}{\numberline {12.8.1}晚训通知}{118}{subsection.12.8.1}%
-\contentsline {subsection}{\numberline {12.8.2}检车通知}{118}{subsection.12.8.2}%
-\contentsline {subsection}{\numberline {12.8.3}新生见面会通知}{118}{subsection.12.8.3}%
-\contentsline {subsection}{\numberline {12.8.4}体测模板}{118}{subsection.12.8.4}%
-\contentsline {section}{\numberline {12.9}头盔清洁}{118}{section.12.9}%
+\contentsline {section}{\numberline {12.9}头盔清洁}{119}{section.12.9}%
 \contentsline {chapter}{\numberline {第十三章\hspace {.3em}}后记}{121}{chapter.13}%
 \contentsline {section}{\numberline {13.1}第一版后记}{121}{section.13.1}%
