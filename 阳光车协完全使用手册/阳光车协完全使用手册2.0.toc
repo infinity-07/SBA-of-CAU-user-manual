@@ -166,10 +166,10 @@
 \contentsline {chapter}{\numberline {第七章\hspace {.3em}}骑行装备}{71}{chapter.7}%
 \contentsline {section}{\numberline {7.1}人身装备}{71}{section.7.1}%
 \contentsline {section}{\numberline {7.2}车身装备}{74}{section.7.2}%
-\contentsline {section}{\numberline {7.3}生活用品}{81}{section.7.3}%
+\contentsline {section}{\numberline {7.3}生活用品}{80}{section.7.3}%
 \contentsline {section}{\numberline {7.4}团队用品}{81}{section.7.4}%
 \contentsline {section}{\numberline {7.5}自行车 }{82}{section.7.5}%
-\contentsline {section}{\numberline {7.6}救命装备}{83}{section.7.6}%
+\contentsline {section}{\numberline {7.6}救命装备}{82}{section.7.6}%
 \contentsline {chapter}{\numberline {第八章\hspace {.3em}}交通工具违禁品}{85}{chapter.8}%
 \contentsline {section}{\numberline {8.1}飞机}{85}{section.8.1}%
 \contentsline {subsection}{\numberline {8.1.1}禁止随身携带或托运}{85}{subsection.8.1.1}%

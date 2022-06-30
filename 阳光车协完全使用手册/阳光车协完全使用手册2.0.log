@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.11)  17 JUN 2022 10:28
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.11)  23 JUN 2022 16:04
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1021,7 +1021,7 @@ File: fig/劣质车锁.png Graphic file (type bmp)
 File: fig/魔方锁.jpg Graphic file (type bmp)
 <fig/魔方锁.jpg>
 
-Underfull \vbox (badness 3930) has occurred while \output is active []
+Underfull \vbox (badness 4341) has occurred while \output is active []
 
  [74]
 File: fig/小G.jpg Graphic file (type bmp)
@@ -1041,17 +1041,9 @@ Underfull \vbox (badness 1383) has occurred while \output is active []
  [77]
 File: fig/波尔兄弟_货架.jpg Graphic file (type bmp)
 <fig/波尔兄弟_货架.jpg>
-
-Overfull \hbox (210.11424pt too wide) in paragraph at lines 2262--2263
- [] 
- []
-
-[78]
+ [78]
 File: fig/洛克兄弟_手机支架.png Graphic file (type bmp)
 <fig/洛克兄弟_手机支架.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [79] [80] [81]
 File: fig/保温毯.jpg Graphic file (type bmp)
 <fig/保温毯.jpg>
@@ -1150,7 +1142,7 @@ File: fig/行者9.png Graphic file (type bmp)
 File: fig/行者10.png Graphic file (type bmp)
 <fig/行者10.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.52061> on input line 2828.
+(Font)              <5.52061> on input line 2848.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1230,20 +1222,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `阳光车协完全使用手册2.0.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `阳光车协完全使用手册2.0.out':
-(rerunfilecheck)             Before: 375816F3A4F5E6362E64D9E0590A5342;18155
-(rerunfilecheck)             After:  BA98E88EF975609E4B4DDC419390A56F;17937.
+Package rerunfilecheck Info: File `阳光车协完全使用手册2.0.out' has not changed.
+(rerunfilecheck)             Checksum: BA98E88EF975609E4B4DDC419390A56F;17937.
  ) 
 Here is how much of TeX's memory you used:
- 32000 strings out of 476179
- 725134 string characters out of 5809103
- 1058109 words of memory out of 5000000
- 52125 multiletter control sequences out of 15000+600000
+ 31999 strings out of 476179
+ 725120 string characters out of 5809103
+ 1058105 words of memory out of 5000000
+ 52124 multiletter control sequences out of 15000+600000
  500592 words of font info for 97 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,13n,104p,1263b,1081s stack positions out of 10000i,1000n,20000p,200000b,200000s
