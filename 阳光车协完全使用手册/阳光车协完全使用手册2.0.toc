@@ -32,10 +32,10 @@
 \contentsline {subsection}{\numberline {1.5.1}概述}{7}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}新生见面会}{8}{subsection.1.5.2}%
 \contentsline {subsection}{\numberline {1.5.3}暑期报告会}{8}{subsection.1.5.3}%
-\contentsline {subsection}{\numberline {1.5.4}冬训宣讲会}{8}{subsection.1.5.4}%
-\contentsline {subsection}{\numberline {1.5.5}暑期宣讲会}{8}{subsection.1.5.5}%
-\contentsline {subsection}{\numberline {1.5.6}换届大会}{8}{subsection.1.5.6}%
-\contentsline {subsection}{\numberline {1.5.7}生日会}{8}{subsection.1.5.7}%
+\contentsline {subsection}{\numberline {1.5.4}冬训宣讲会}{9}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}暑期宣讲会}{9}{subsection.1.5.5}%
+\contentsline {subsection}{\numberline {1.5.6}换届大会}{9}{subsection.1.5.6}%
+\contentsline {subsection}{\numberline {1.5.7}生日会}{9}{subsection.1.5.7}%
 \contentsline {subsection}{\numberline {1.5.8}冬训宣讲会}{9}{subsection.1.5.8}%
 \contentsline {section}{\numberline {1.6}学校主题活动}{9}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}秋季百团大战}{9}{subsection.1.6.1}%
@@ -48,14 +48,14 @@
 \contentsline {paragraph}{冬训体测参考标准}{11}{paragraph*.15}%
 \contentsline {paragraph}{暑期体测参考标准}{11}{paragraph*.16}%
 \contentsline {subsection}{\numberline {1.8.2}骑车体测}{11}{subsection.1.8.2}%
-\contentsline {subsection}{\numberline {1.8.3}秦皇岛体测}{11}{subsection.1.8.3}%
-\contentsline {subsection}{\numberline {1.8.4}冬训体测}{11}{subsection.1.8.4}%
-\contentsline {subsection}{\numberline {1.8.5}暑期体测}{11}{subsection.1.8.5}%
+\contentsline {subsection}{\numberline {1.8.3}秦皇岛体测}{12}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1.8.4}冬训体测}{12}{subsection.1.8.4}%
+\contentsline {subsection}{\numberline {1.8.5}暑期体测}{12}{subsection.1.8.5}%
 \contentsline {subsection}{\numberline {1.8.6}给体测人的一段话}{12}{subsection.1.8.6}%
-\contentsline {subsection}{\numberline {1.8.7}体测排名计算方法}{12}{subsection.1.8.7}%
-\contentsline {section}{\numberline {1.9}其他活动}{13}{section.1.9}%
-\contentsline {subsection}{\numberline {1.9.1}刷楼}{13}{subsection.1.9.1}%
-\contentsline {subsection}{\numberline {1.9.2}包饺子}{13}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.8.7}体测排名计算方法}{13}{subsection.1.8.7}%
+\contentsline {section}{\numberline {1.9}其他活动}{14}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}刷楼}{14}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}包饺子}{14}{subsection.1.9.2}%
 \contentsline {subsection}{\numberline {1.9.3}包粽子}{14}{subsection.1.9.3}%
 \contentsline {chapter}{\numberline {第二章\hspace {.3em}}骑行技巧}{15}{chapter.2}%
 \contentsline {section}{\numberline {2.1}放坡}{15}{section.2.1}%
@@ -211,8 +211,8 @@
 \contentsline {section}{\numberline {12.3}团队骑行安全协议}{108}{section.12.3}%
 \contentsline {section}{\numberline {12.4}学习渠道}{111}{section.12.4}%
 \contentsline {section}{\numberline {12.5}常见问题}{112}{section.12.5}%
-\contentsline {section}{\numberline {12.6}值得被记住的话}{116}{section.12.6}%
-\contentsline {section}{\numberline {12.7}注释}{116}{section.12.7}%
+\contentsline {section}{\numberline {12.6}值得被记住的话}{115}{section.12.6}%
+\contentsline {section}{\numberline {12.7}注释}{115}{section.12.7}%
 \contentsline {section}{\numberline {12.8}短信/通知模板}{118}{section.12.8}%
 \contentsline {section}{\numberline {12.9}头盔清洁}{119}{section.12.9}%
 \contentsline {chapter}{\numberline {第十三章\hspace {.3em}}后记}{121}{chapter.13}%
