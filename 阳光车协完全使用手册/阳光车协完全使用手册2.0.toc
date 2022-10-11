@@ -11,27 +11,27 @@
 \contentsline {subsection}{\numberline {1.2.1}活动前的准备}{3}{subsection.1.2.1}%
 \contentsline {paragraph}{活动前一周周六}{3}{paragraph*.6}%
 \contentsline {paragraph}{活动周周一}{3}{paragraph*.7}%
-\contentsline {paragraph}{活动周周三}{3}{paragraph*.8}%
+\contentsline {paragraph}{活动周周三}{4}{paragraph*.8}%
 \contentsline {paragraph}{活动周周四}{4}{paragraph*.9}%
 \contentsline {paragraph}{活动周周五中午}{4}{paragraph*.10}%
-\contentsline {paragraph}{活动日前一天晚}{4}{paragraph*.11}%
+\contentsline {paragraph}{活动日前一天晚}{5}{paragraph*.11}%
 \contentsline {subsection}{\numberline {1.2.2}活动中}{5}{subsection.1.2.2}%
 \contentsline {subsection}{\numberline {1.2.3}活动结束后}{5}{subsection.1.2.3}%
 \contentsline {paragraph}{活动周次周周三}{5}{paragraph*.12}%
 \contentsline {paragraph}{活动周次周周日}{5}{paragraph*.13}%
 \contentsline {subsection}{\numberline {1.2.4}注意事项}{5}{subsection.1.2.4}%
 \contentsline {section}{\numberline {1.3}多日骑游活动}{5}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}活动前}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.1}活动前}{6}{subsection.1.3.1}%
 \contentsline {subsection}{\numberline {1.3.2}活动中}{6}{subsection.1.3.2}%
 \contentsline {subsection}{\numberline {1.3.3}活动后}{6}{subsection.1.3.3}%
-\contentsline {section}{\numberline {1.4}校内拉练}{6}{section.1.4}%
+\contentsline {section}{\numberline {1.4}校内拉练}{7}{section.1.4}%
 \contentsline {subsection}{\numberline {1.4.1}校内定向越野}{7}{subsection.1.4.1}%
 \contentsline {subsection}{\numberline {1.4.2}校内长跑}{7}{subsection.1.4.2}%
 \contentsline {subsection}{\numberline {1.4.3}讲座}{7}{subsection.1.4.3}%
 \contentsline {section}{\numberline {1.5}室内活动}{7}{section.1.5}%
 \contentsline {subsection}{\numberline {1.5.1}概述}{7}{subsection.1.5.1}%
 \contentsline {subsection}{\numberline {1.5.2}新生见面会}{8}{subsection.1.5.2}%
-\contentsline {subsection}{\numberline {1.5.3}暑期报告会}{8}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.3}暑期报告会}{9}{subsection.1.5.3}%
 \contentsline {subsection}{\numberline {1.5.4}冬训宣讲会}{9}{subsection.1.5.4}%
 \contentsline {subsection}{\numberline {1.5.5}暑期宣讲会}{9}{subsection.1.5.5}%
 \contentsline {subsection}{\numberline {1.5.6}换届大会}{9}{subsection.1.5.6}%
