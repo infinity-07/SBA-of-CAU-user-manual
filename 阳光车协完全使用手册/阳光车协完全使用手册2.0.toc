@@ -50,21 +50,23 @@
 \contentsline {section}{\numberline {1.7}检车}{12}{section.1.7}%
 \contentsline {section}{\numberline {1.8}体测}{13}{section.1.8}%
 \contentsline {subsection}{\numberline {1.8.1}跑步体测}{13}{subsection.1.8.1}%
-\contentsline {paragraph}{秦皇岛体测参考标准}{13}{paragraph*.20}%
-\contentsline {paragraph}{冬训体测参考标准}{13}{paragraph*.21}%
-\contentsline {paragraph}{暑期体测参考标准}{13}{paragraph*.22}%
-\contentsline {subsection}{\numberline {1.8.2}骑车体测}{13}{subsection.1.8.2}%
-\contentsline {subsection}{\numberline {1.8.3}秦皇岛体测}{13}{subsection.1.8.3}%
-\contentsline {subsection}{\numberline {1.8.4}冬训体测}{13}{subsection.1.8.4}%
-\contentsline {subsection}{\numberline {1.8.5}暑期体测}{13}{subsection.1.8.5}%
-\contentsline {subsection}{\numberline {1.8.6}给体测人的一段话}{14}{subsection.1.8.6}%
-\contentsline {subsection}{\numberline {1.8.7}体测排名计算方法}{14}{subsection.1.8.7}%
-\contentsline {section}{\numberline {1.9}其他活动}{15}{section.1.9}%
-\contentsline {subsection}{\numberline {1.9.1}刷楼}{15}{subsection.1.9.1}%
-\contentsline {subsection}{\numberline {1.9.2}包饺子}{15}{subsection.1.9.2}%
+\contentsline {subsubsection}{秦皇岛体测参考标准}{13}{subsubsection*.20}%
+\contentsline {subsubsection}{冬训体测参考标准}{13}{subsubsection*.21}%
+\contentsline {paragraph}{暑期体测参考标准}{14}{paragraph*.22}%
+\contentsline {subsection}{\numberline {1.8.2}骑车体测}{14}{subsection.1.8.2}%
+\contentsline {subsubsection}{秦皇岛体测}{14}{subsubsection*.23}%
+\contentsline {subsubsection}{冬训体测}{14}{subsubsection*.24}%
+\contentsline {subsubsection}{暑期体测}{14}{subsubsection*.25}%
+\contentsline {subsection}{\numberline {1.8.3}给体测人的一段话}{14}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1.8.4}体测排名计算方法}{15}{subsection.1.8.4}%
+\contentsline {section}{\numberline {1.9}其他活动}{16}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}刷楼}{16}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}包饺子}{16}{subsection.1.9.2}%
 \contentsline {subsection}{\numberline {1.9.3}包粽子}{16}{subsection.1.9.3}%
 \contentsline {chapter}{\numberline {第二章\hspace {.3em}}骑行技巧}{17}{chapter.2}%
 \contentsline {section}{\numberline {2.1}放坡}{17}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}放坡前的准备}{17}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}放坡中的注意事项}{17}{subsection.2.1.2}%
 \contentsline {section}{\numberline {2.2}爬坡}{18}{section.2.2}%
 \contentsline {section}{\numberline {2.3}过弯}{19}{section.2.3}%
 \contentsline {section}{\numberline {2.4}雨骑}{19}{section.2.4}%
@@ -83,14 +85,14 @@
 \contentsline {subsection}{\numberline {3.2.1}队长}{28}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}前骑}{33}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}后骑}{35}{subsection.3.2.3}%
-\contentsline {subsubsection}{具体工作：}{35}{subsubsection*.23}%
-\contentsline {subsubsection}{注意：}{37}{subsubsection*.24}%
+\contentsline {subsubsection}{具体工作：}{35}{subsubsection*.26}%
+\contentsline {subsubsection}{注意：}{37}{subsubsection*.27}%
 \contentsline {subsection}{\numberline {3.2.4}前站}{37}{subsection.3.2.4}%
 \contentsline {subsection}{\numberline {3.2.5}队医}{38}{subsection.3.2.5}%
 \contentsline {subsection}{\numberline {3.2.6}摄影与队记}{38}{subsection.3.2.6}%
 \contentsline {subsection}{\numberline {3.2.7}大旗}{38}{subsection.3.2.7}%
-\contentsline {subsubsection}{位置：}{38}{subsubsection*.25}%
-\contentsline {subsubsection}{具体工作：}{38}{subsubsection*.26}%
+\contentsline {subsubsection}{位置：}{38}{subsubsection*.28}%
+\contentsline {subsubsection}{具体工作：}{38}{subsubsection*.29}%
 \contentsline {subsection}{\numberline {3.2.8}心理委员}{39}{subsection.3.2.8}%
 \contentsline {section}{\numberline {3.3}意外情况处理方案}{39}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}掉队}{39}{subsection.3.3.1}%
@@ -103,21 +105,21 @@
 \contentsline {section}{\numberline {4.2}B级路线：骑游}{42}{section.4.2}%
 \contentsline {subsection}{\numberline {4.2.1}银杏林}{42}{subsection.4.2.1}%
 \contentsline {subsection}{\numberline {4.2.2}凤凰岭}{42}{subsection.4.2.2}%
-\contentsline {subsubsection}{时间安排}{42}{subsubsection*.27}%
-\contentsline {subsubsection}{路书}{43}{subsubsection*.28}%
-\contentsline {subsubsection}{注意事项}{43}{subsubsection*.29}%
+\contentsline {subsubsection}{时间安排}{42}{subsubsection*.30}%
+\contentsline {subsubsection}{路书}{43}{subsubsection*.31}%
+\contentsline {subsubsection}{注意事项}{43}{subsubsection*.32}%
 \contentsline {subsection}{\numberline {4.2.3}八大处}{43}{subsection.4.2.3}%
 \contentsline {subsection}{\numberline {4.2.4}十三陵}{43}{subsection.4.2.4}%
 \contentsline {subsection}{\numberline {4.2.5}怀柔水库}{43}{subsection.4.2.5}%
 \contentsline {section}{\numberline {4.3}C级路线：秋季拉练}{44}{section.4.3}%
 \contentsline {subsection}{\numberline {4.3.1}太舟坞}{44}{subsection.4.3.1}%
-\contentsline {subsubsection}{时间安排}{44}{subsubsection*.30}%
-\contentsline {subsubsection}{路书}{44}{subsubsection*.31}%
-\contentsline {subsubsection}{注意事项}{44}{subsubsection*.32}%
+\contentsline {subsubsection}{时间安排}{44}{subsubsection*.33}%
+\contentsline {subsubsection}{路书}{44}{subsubsection*.34}%
+\contentsline {subsubsection}{注意事项}{44}{subsubsection*.35}%
 \contentsline {subsection}{\numberline {4.3.2}戒台寺}{44}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}莽山}{45}{subsection.4.3.3}%
-\contentsline {subsubsection}{路线介绍}{45}{subsubsection*.33}%
-\contentsline {subsubsection}{时间安排}{46}{subsubsection*.34}%
+\contentsline {subsubsection}{路线介绍}{45}{subsubsection*.36}%
+\contentsline {subsubsection}{时间安排}{46}{subsubsection*.37}%
 \contentsline {subsection}{\numberline {4.3.4}大杨山}{47}{subsection.4.3.4}%
 \contentsline {section}{\numberline {4.4}D级路线：春季拉练}{47}{section.4.4}%
 \contentsline {subsection}{\numberline {4.4.1}潭王路}{47}{subsection.4.4.1}%
@@ -131,9 +133,9 @@
 \contentsline {subsection}{\numberline {4.5.4}百里画廊}{49}{subsection.4.5.4}%
 \contentsline {subsection}{\numberline {4.5.5}幽州大峡谷}{49}{subsection.4.5.5}%
 \contentsline {subsection}{\numberline {4.5.6}秦皇岛}{49}{subsection.4.5.6}%
-\contentsline {subsubsection}{预计费用}{50}{subsubsection*.35}%
-\contentsline {subsubsection}{联系方式}{50}{subsubsection*.36}%
-\contentsline {subsubsection}{日程安排}{50}{subsubsection*.37}%
+\contentsline {subsubsection}{预计费用}{50}{subsubsection*.38}%
+\contentsline {subsubsection}{联系方式}{50}{subsubsection*.39}%
+\contentsline {subsubsection}{日程安排}{50}{subsubsection*.40}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}暑期远征}{53}{chapter.5}%
 \contentsline {section}{\numberline {5.1}暑期选拔}{53}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}暑期宣讲会}{53}{subsection.5.1.1}%
@@ -146,11 +148,11 @@
 \contentsline {subsection}{\numberline {5.1.8}积分及体测奖励}{58}{subsection.5.1.8}%
 \contentsline {section}{\numberline {5.2}成队事宜}{58}{section.5.2}%
 \contentsline {subsection}{\numberline {5.2.1}运车}{60}{subsection.5.2.1}%
-\contentsline {subsubsection}{中铁快运}{60}{subsubsection*.43}%
-\contentsline {subsubsection}{快递}{61}{subsubsection*.44}%
-\contentsline {subsubsection}{物流}{62}{subsubsection*.45}%
-\contentsline {subsubsection}{注意事项}{62}{subsubsection*.46}%
-\contentsline {subsubsection}{拆装技巧}{63}{subsubsection*.47}%
+\contentsline {subsubsection}{中铁快运}{60}{subsubsection*.46}%
+\contentsline {subsubsection}{快递}{61}{subsubsection*.47}%
+\contentsline {subsubsection}{物流}{62}{subsubsection*.48}%
+\contentsline {subsubsection}{注意事项}{62}{subsubsection*.49}%
+\contentsline {subsubsection}{拆装技巧}{63}{subsubsection*.50}%
 \contentsline {section}{\numberline {5.3}暑期远征}{64}{section.5.3}%
 \contentsline {subsection}{\numberline {5.3.1}车票}{64}{subsection.5.3.1}%
 \contentsline {subsection}{\numberline {5.3.2}高原骑行注意事项}{65}{subsection.5.3.2}%
