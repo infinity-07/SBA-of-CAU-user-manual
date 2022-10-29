@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.9)  23 OCT 2022 13:29
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.9)  29 OCT 2022 10:58
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -912,11 +912,11 @@ File: fig/会旗.jpg Graphic file (type bmp)
 <fig/会旗.jpg>
  [5] [6
 
-] (./阳光车协完全使用手册2.0.toc [7] [8] [9] [10] [11] [12])
+] (./阳光车协完全使用手册2.0.toc [7] [8] [9] [10] [11] [12] [13])
 \tf@toc=\write5
 \openout5 = `阳光车协完全使用手册2.0.toc'.
 
- [13]
+ [14]
 第一章
 File: fig/晚训.jpg Graphic file (type bmp)
 <fig/晚训.jpg>
@@ -1010,45 +1010,39 @@ File: fig/秦皇岛日出.jpg Graphic file (type bmp)
 <fig/秦皇岛日出.jpg>
 File: fig/秦皇岛跳.jpg Graphic file (type bmp)
 <fig/秦皇岛跳.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [49] [50] [51] [52
 
 ]
 第五章
-[53] [54] [55] [56]
+[53] [54] [55] [56] [57]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [57] [58]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [59] [60] [61] [62]
+ [58] [59] [60] [61]
 File: fig/快拆杆.jpg Graphic file (type bmp)
 <fig/快拆杆.jpg>
 File: fig/拆车把1.jpg Graphic file (type bmp)
 <fig/拆车把1.jpg>
 File: fig/拆车把2.jpg Graphic file (type bmp)
 <fig/拆车把2.jpg>
- [63] [64] [65] [66] [67] [68
-
-]
+ [62] [63] [64] [65] [66]
 第六章
-[69] [70]
+[67
+
+] [68]
 Missing character: There is no ― (U+2015) in font [lmroman10-regular]:mapping=tex-text;!
-[71] [72]
+[69] [70]
 第七章
 File: fig/头盔佩戴方法.jpg Graphic file (type bmp)
 <fig/头盔佩戴方法.jpg>
-[73
+[71
 
 ]
 File: fig/啄木鸟冰袖.png Graphic file (type bmp)
 <fig/啄木鸟冰袖.png>
- [74] [75]
+ [72] [73]
 File: fig/劣质车锁.png Graphic file (type bmp)
 <fig/劣质车锁.png>
- [76]
+ [74]
 File: fig/魔方锁.jpg Graphic file (type bmp)
 <fig/魔方锁.jpg>
 File: fig/小G.jpg Graphic file (type bmp)
@@ -1056,50 +1050,48 @@ File: fig/小G.jpg Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [77]
+ [75]
 File: fig/高大威_驮包.png Graphic file (type bmp)
 <fig/高大威_驮包.png>
- [78]
+ [76]
 File: fig/货架_无挡板.jpg Graphic file (type bmp)
 <fig/货架_无挡板.jpg>
- [79]
+ [77]
 File: fig/波尔兄弟_货架.jpg Graphic file (type bmp)
 <fig/波尔兄弟_货架.jpg>
- [80]
+ [78]
 File: fig/洛克兄弟_手机支架.png Graphic file (type bmp)
 <fig/洛克兄弟_手机支架.png>
- [81]
+ [79]
 File: fig/洛克兄弟-水壶.png Graphic file (type bmp)
 <fig/洛克兄弟-水壶.png>
- [82]
+ [80]
 File: fig/插排.png Graphic file (type bmp)
 <fig/插排.png>
 
 Underfull \vbox (badness 2310) has occurred while \output is active []
 
- [83]
+ [81]
 File: fig/防潮垫.png Graphic file (type bmp)
 <fig/防潮垫.png>
- [84] [85]
+ [82] [83]
 File: fig/保温毯.jpg Graphic file (type bmp)
 <fig/保温毯.jpg>
- [86]
+ [84]
 第八章
-[87
+[85
 
-] [88] [89] [90
+] [86] [87] [88
 
 ]
 第九章
-[91] [92]
-第十章
-[93
+[89] [90] [91] [92
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [94]
+第十章
+[93] [94]
 Missing character: There is no   (U+2003) in font [lmroman10-regular]:mapping=tex-text;!
+[95]
 Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1114,6 +1106,7 @@ Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=
 Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ④ (U+2463) in font [lmroman10-regular]:mapping=tex-text;!
+[96]
 Missing character: There is no ⑤ (U+2464) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑥ (U+2465) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ★ (U+2605) in font [lmroman10-regular]:mapping=tex-text;!
@@ -1128,23 +1121,17 @@ Missing character: There is no ③ (U+2462) in font [lmroman10-regular]:mapping=
 Missing character: There is no ④ (U+2463) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑤ (U+2464) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ⑥ (U+2465) in font [lmroman10-regular]:mapping=tex-text;!
-[95]
+[97] [98]
 Missing character: There is no ① (U+2460) in font [lmroman10-regular]:mapping=tex-text;!
 Missing character: There is no ② (U+2461) in font [lmroman10-regular]:mapping=tex-text;!
-[96]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [97]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [98] [99] [100]
-第十一章
-[101
+[99] [100] [101] [102] [103] [104
 
 ]
+第十一章
+[105]
 File: fig/发票报销.png Graphic file (type bmp)
 <fig/发票报销.png>
- [102] [103] [104
+ [106] [107] [108
 
 ]
 第十二章
@@ -1157,7 +1144,7 @@ File: fig/行者3.png Graphic file (type bmp)
 
 Underfull \vbox (badness 1147) has occurred while \output is active []
 
- [105]
+ [109]
 File: fig/行者4.png Graphic file (type bmp)
 <fig/行者4.png>
 File: fig/行者5.png Graphic file (type bmp)
@@ -1167,107 +1154,15 @@ File: fig/行者6.png Graphic file (type bmp)
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [106]
+ [110]
 File: fig/行者7.png Graphic file (type bmp)
 <fig/行者7.png>
 File: fig/行者8.png Graphic file (type bmp)
 <fig/行者8.png>
 File: fig/行者9.png Graphic file (type bmp)
 <fig/行者9.png>
- [107]
+ [111]
 File: fig/行者10.png Graphic file (type bmp)
 <fig/行者10.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.52061> on input line 3012.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [108] [109] [110
-
-] [111]
-
-Package fontspec Info: Could not resolve font "SimHei/BI" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "SimHei/B" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Could not resolve font "SimHei/I" (it probably doesn't
-(fontspec)             exist).
-
-
-Package fontspec Info: Font family 'SimHei(0)' created for font 'SimHei' with
-(fontspec)             options [Script={CJK}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"SimHei/OT:script=hani;language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [112]
-File: fig/蹭风队形.jpg Graphic file (type bmp)
-<fig/蹭风队形.jpg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [113] [114]
-File: fig/驮包和大旗.jpg Graphic file (type bmp)
-<fig/驮包和大旗.jpg>
-File: fig/菁宏驮包.jpg Graphic file (type bmp)
-<fig/菁宏驮包.jpg>
-File: fig/王上林驮包.jpg Graphic file (type bmp)
-<fig/王上林驮包.jpg>
-File: fig/林琛宇驮包.jpg Graphic file (type bmp)
-<fig/林琛宇驮包.jpg>
- [115]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [116] [117] [118
-
-] (./阳光车协完全使用手册2.0.tdo)
-\tf@tdo=\write6
-\openout6 = `阳光车协完全使用手册2.0.tdo'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [119] [120]
-File: fig/头盔清洁1.jpeg Graphic file (type bmp)
-<fig/头盔清洁1.jpeg>
-File: fig/头盔清洁2.jpeg Graphic file (type bmp)
-<fig/头盔清洁2.jpeg>
-File: fig/头盔清洁3.jpeg Graphic file (type bmp)
-<fig/头盔清洁3.jpeg>
-File: fig/头盔清洁4.jpeg Graphic file (type bmp)
-<fig/头盔清洁4.jpeg>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [121] [122]
-第十三章
-[123
-
-] (./阳光车协完全使用手册2.0.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package rerunfilecheck Info: File `阳光车协完全使用手册2.0.out' has not changed.
-(rerunfilecheck)             Checksum: 813F1EE538C7DB3008AA57FDC2814919;18184.
- ) 
-Here is how much of TeX's memory you used:
- 31963 strings out of 476179
- 712320 string characters out of 5813072
- 1055929 words of memory out of 5000000
- 52080 multiletter control sequences out of 15000+600000
- 500592 words of font info for 97 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 99i,13n,104p,1247b,1081s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on 阳光车协完全使用手册2.0.pdf (138 pages).
+(Font)              <5.52061
