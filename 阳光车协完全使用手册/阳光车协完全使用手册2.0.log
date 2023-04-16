@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.10.9)  5 NOV 2022 09:46
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.11.7)  16 APR 2023 23:29
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1008,23 +1008,26 @@ File: fig/蟒山2.jpg Graphic file (type bmp)
  [47] [48]
 File: fig/妙峰山1.jpg Graphic file (type bmp)
 <fig/妙峰山1.jpg>
- [49]
+ [49] [50]
 File: fig/五一第一天2018年.jpg Graphic file (type bmp)
 <fig/五一第一天2018年.jpg>
 File: fig/五一第一天2021年.jpg Graphic file (type bmp)
 <fig/五一第一天2021年.jpg>
 File: fig/五一第二天.jpg Graphic file (type bmp)
 <fig/五一第二天.jpg>
- [50]
 File: fig/幽州大峡谷1.jpg Graphic file (type bmp)
 <fig/幽州大峡谷1.jpg>
 File: fig/幽州大峡谷2.jpg Graphic file (type bmp)
 <fig/幽州大峡谷2.jpg>
+
+Underfull \vbox (badness 2050) has occurred while \output is active []
+
+ [51]
 File: fig/秦皇岛日出.jpg Graphic file (type bmp)
 <fig/秦皇岛日出.jpg>
 File: fig/秦皇岛跳.jpg Graphic file (type bmp)
 <fig/秦皇岛跳.jpg>
- [51] [52] [53] [54
+ [52] [53] [54
 
 ]
 第五章
@@ -1179,7 +1182,7 @@ File: fig/行者9.png Graphic file (type bmp)
 File: fig/行者10.png Graphic file (type bmp)
 <fig/行者10.png>
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.52061> on input line 3175.
+(Font)              <5.52061> on input line 3191.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1260,14 +1263,8 @@ File: fig/头盔清洁4.jpeg Graphic file (type bmp)
 
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `阳光车协完全使用手册2.0.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `阳光车协完全使用手册2.0.out':
-(rerunfilecheck)             Before: 660B5F7ECF169614051C3134DA7FB87C;18594
-(rerunfilecheck)             After:  389A0E1CF94FF04CAF158CD8B929615C;18730.
+Package rerunfilecheck Info: File `阳光车协完全使用手册2.0.out' has not changed.
+(rerunfilecheck)             Checksum: 715D8864DC5A3787AD0758BA44CB6214;18730.
  ) 
 Here is how much of TeX's memory you used:
  31975 strings out of 476179

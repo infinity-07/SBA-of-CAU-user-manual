@@ -126,20 +126,20 @@
 \contentsline {subsubsection}{时间安排}{48}{subsubsection*.38}%
 \contentsline {subsection}{\numberline {4.3.4}大杨山}{49}{subsection.4.3.4}%
 \contentsline {section}{\numberline {4.4}D级路线：春季拉练}{49}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}潭王路}{49}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}禅妙阳连爬}{49}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}韭园}{49}{subsection.4.4.3}%
-\contentsline {subsection}{\numberline {4.4.4}妙峰山}{49}{subsection.4.4.4}%
-\contentsline {section}{\numberline {4.5}E级路线：多日活动/特殊活动}{49}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}黄花城水长城}{49}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}五一（赤壁山）}{50}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.4.1}妙峰山}{49}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}潭王路}{49}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}禅妙阳连爬}{50}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}韭园}{50}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}E级路线：多日活动/特殊活动}{50}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}黄花城水长城}{50}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}五一（赤壁山）}{51}{subsection.4.5.2}%
 \contentsline {subsection}{\numberline {4.5.3}黑龙潭}{51}{subsection.4.5.3}%
 \contentsline {subsection}{\numberline {4.5.4}百里画廊}{51}{subsection.4.5.4}%
 \contentsline {subsection}{\numberline {4.5.5}幽州大峡谷}{51}{subsection.4.5.5}%
-\contentsline {subsection}{\numberline {4.5.6}秦皇岛}{51}{subsection.4.5.6}%
+\contentsline {subsection}{\numberline {4.5.6}秦皇岛}{52}{subsection.4.5.6}%
 \contentsline {subsubsection}{预计费用}{52}{subsubsection*.39}%
-\contentsline {subsubsection}{联系方式}{52}{subsubsection*.40}%
-\contentsline {subsubsection}{日程安排}{52}{subsubsection*.41}%
+\contentsline {subsubsection}{联系方式}{53}{subsubsection*.40}%
+\contentsline {subsubsection}{日程安排}{53}{subsubsection*.41}%
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}暑期远征}{55}{chapter.5}%
 \contentsline {section}{\numberline {5.1}暑期选拔}{55}{section.5.1}%
 \contentsline {subsection}{\numberline {5.1.1}暑期宣讲会}{55}{subsection.5.1.1}%
